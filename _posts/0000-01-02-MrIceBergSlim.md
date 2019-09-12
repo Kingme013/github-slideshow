@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-La'$hawn
+CrazyMannn
